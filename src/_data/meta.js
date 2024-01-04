@@ -38,7 +38,7 @@ module.exports = {
     zip: '12345',
     mobileDisplay: '+34 1234567',
     mobileCall: ' +341234567',
-    email: 'hola@yoursite.com',
+    email: 'kevin@kctofel.com',
     cif: ''
   },
   menu: {
