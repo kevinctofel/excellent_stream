@@ -1,5 +1,5 @@
 module.exports = {
-  url: process.env.URL || 'http://localhost:8080',
+  url: 'https://myconscious.stream',
   siteName: 'My Conscious Stream',
   siteDescription:
     'Online and offline thoughts',
@@ -31,13 +31,13 @@ module.exports = {
   },
   address: {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
-    firma: 'Organization name',
+    firma: 'Kevin C. Tofel',
     street: '123 Main St.',
-    city: 'Ciudad',
-    state: 'Estado',
-    zip: '12345',
-    mobileDisplay: '+34 1234567',
-    mobileCall: ' +341234567',
+    city: 'Harleysville',
+    state: 'PA',
+    zip: '19438',
+    mobileDisplay: '',
+    mobileCall: '',
     email: 'kevin@kctofel.com',
     cif: ''
   },
