@@ -18,7 +18,7 @@ For starters, Helix is built in Rust. Aside from impoved memory protection, Rust
 
 Right out of the box, Helix has many great base features. So I'm spending less time learning how to configure it. Of course, being a work in progress means it doesn't have as many features. There's no plug-in support yet, for example. Still, most of what I added to Neovim via plugins is already there in Helix. I just need basic features to get my work done.
 
-![Helix editor](/img/helix-editor-example-two.png)
+{% imagePlaceholder "./src/assets/images/blog/helix-editor-example-two.png", "Helix editor" %}
 
 Support for the Language Server Protocol is there, so you can get code autocompletion and a limited number of code snippet support. Auto-closing character pairs, such as for brackets and braces is there. Treesitter parsing is supported as is file and word fuzzy finding, similar to Telescope on Neovim. No, there's not much more than that without plugins, but I don't need much more personally.
 

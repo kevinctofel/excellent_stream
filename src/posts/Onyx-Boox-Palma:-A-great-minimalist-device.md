@@ -7,7 +7,6 @@ youtube: true
 After buying nearly every Amazon Kindle ever made, I switched to a large e-Ink Android tablet two years ago. It's a 10.3-inch device running Android 8. As much as I like the reading experience combined with a few Android apps, it has a _very_ slow refresh rate.
 
 As a result, I was using it less and less. I also gave up on using an e-Ink tablet as a minimalist device, which was disappointing.
-<!-- excerpt -->
 
 I think an e-Ink slab is ideal for digital minimalism. You can replace "digital minimalism" for "a device used solely during downtime", if you wish.
 
@@ -15,7 +14,7 @@ These products are easier on your eyes for starters. More importantly, they're o
 
 Hence my disappointment when I outgrew the large e-Ink tablet. Then, about three weeks ago, I heard about the [Onyx Boox Palma](https://shop.boox.com/products/palma).
 
-![My Onyx Boox Palma launcher screen](/img/Palma.jpeg)
+{% imagePlaceholder "./src/assets/images/blog/Palma.jpeg", "Onyx Boox Palma" %}
 
 After watching some video reviews, I decided to take a chance on this $279 e-Ink handheld.
 
@@ -28,9 +27,11 @@ For example, I can:
 - Research specific things in the browser when I intend to, again with not enough lag to make the experience unusable.
 - Listen to Apple Music while reading. There's no headphone jack, but my Apple AirPods Pro paired without any issues.
 - View saved articles and newsletters in [Omnivore](https://omnivore.app), my "read it later" app.
-- Watch YouTube videos that I've saved to my "Watch Later" playlist. I do this for content that's not work related so I can watch them while relaxing. Yes, the videos are played back in grayscale. The framerate approaches but doesn't quite get to 30 fps. But it's more than good enough for this context.
+- Watch YouTube videos that I've saved to my "Watch Later" playlist. I do this for content that's not work related so I can watch them while relaxing. Yes, the videos are played back in grayscale. The framerate approaches but doesn't quite get to 30 fps. But it's more than good enough for this context.  
 
-{% youtube "nSOMfUQ53T4" %}
+Here's a demo of some brief video playback:
+
+{% youtube "nSOMfUQ53T4", "Short video playback demo" %}
 
 All of these experiences have just enough of a barrier for me to not want to use the Palma full time. That's fine with me. I have a smart phone for when I want the "full" experience, complete with online connectivity anywhere I go.
 

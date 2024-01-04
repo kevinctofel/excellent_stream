@@ -11,8 +11,8 @@ After publishing this post, I hope to see all of the existing post titles plus t
 
 Before:
 
-![Post titles](/img/six_post_titles.jpg)
+{% imagePlaceholder "./src/assets/images/blog/six_post_titles.jpg", "Six titles shown" %}
 
 UPDATE -- After:
 
-![More titles](/img/seven-posts.jpg)
+{% imagePlaceholder "./src/assets/images/blog/seven-posts.jpg", "Seven titles shown" %}

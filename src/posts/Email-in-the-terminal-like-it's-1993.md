@@ -7,7 +7,7 @@ My quest to greatly reduce the use of a mouse or trackpad took a half-step forwa
 
 These are both terminal based email clients. In 2023!
 
-![Neomutt](/img/Neomutt.png)
+{% imagePlaceholder "./src/assets/images/blog/Neomutt.png", "Neomutt email in the terminal" %}
 
 ## Mutt and Neomutt setup ##
 
@@ -33,13 +33,13 @@ While I'm loving the speed experience of using Neomutt, it's not all peaches and
 
 When I open an email in Neomutt and it's in HTML, I tap the 'v' key on my keyboard. This opens up a browser tab with the email contents. It's then two keyboard taps to close the tab and get back to Neomutt. This doesn't take long, obviously but if you're used to a seamless email experience, this isn't it.
 
-![HTML-email](/img/HTML-email.png)
+{% imagePlaceholder "./src/assets/images/blog/HTML-email.png", "HTML email" %}
 
 Another issue I have is more of a challenge in setting up an address book. Abook came recommended and I was able to install it without any issues. It's a terminal based contacts app that integrates with Neomutt. 
 
 Since my contacts are in Proton Mail, I had to download and decrypt them. Not a problem as Proton Mail makes that easy. In about 30 seconds, I had a standard .vcf file. And there's an abook command to import may file formats for contacts, including .vcf, into an address book.
 
-![abook](/img/abook.png)
+{% imagePlaceholder "./src/assets/images/blog/abook.png", "Empty address book" %}
 
 I must be doing something wrong because after running the command, I still have an empty address book. I'll be working on solving that issue in the coming days.
 

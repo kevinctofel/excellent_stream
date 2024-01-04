@@ -14,17 +14,17 @@ So... I have 512 GB of storage space I can reclaim on the Dell. Using the includ
 
 Honestly, I wasn't sure exactly how to do this, although I had a high level understanding of the process. Thankfully, one of [my favorite Linux YouTubers](https://www.youtube.com/@DistroTube) shared the step-by-step approach:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tEnnEhziLn8?si=3x6FvUFPQhzrBKv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% youtube 'tEnnEhziLn8' %}
 
 I admit I was a bit scared. With Linux, your Home directory is your identity with your personal memories, as it were. And yet, by following the steps in the video, the process went flawlessly.
 
 I went from having a 250 GB SSD with under a gigabyte free to having 221 GB free after moving my Home directory. 
 
-![My main Linux drive](/img/Main_SSD.png)
+{% imagePlaceholder "./src/assets/images/blog/Main_SSD.png", "My main hard drive" %}
 
 And I still have tons of room on the SSD with the Home directory as well.
 
-![My Home directory on a second SSD](/img/Home_dir.png)
+{% imagePlaceholder "./src/assets/images/blog/Home_dir.png", "My home directory" %}
 
 I probably should have just set the Dell XPS 15 up with two drives this way in the first place. That would have avoided the semi-scary situation. It's OK though. I'm all sorted now.
 

@@ -25,7 +25,7 @@ I also have a few key apps installed, but only a few.
 
 One, [called Stats](https://apps.apple.com/us/app/stats-for-model-s-x-3-y/id1191100729), lets my watch be the key for our car. I can fully control the car's locks, climate system and more. So I don't need my phone, or a key, for the car. Apple Music is installed by default and I have roughly 5 GB of music downloaded on the watch. This lets me listen to music whie away from home; no phone needed. 
 
-![Apple Watch Stats app](/img/Watch-Tesla.jpg)
+{% imagePlaceholder "./src/assets/images/blog/Watch-Tesla.jpg", "Stats app on Apple Watch" %}
 
 Apple Pay is also a default app so although I carry a wallet, I tend to pay for things with my watch. I have a slim, minimal wallet (shocking, I know) with a pair of backup payment cards and my driver's license. I rarely need these but I carry them just in case. 
 
@@ -37,7 +37,7 @@ I do make heavy use of the watch's health tracking features, which again are bui
 
 The only other third-party app I have installed on the watch is Home Assistant, which I use as my smarthome platform of choice. It's useful to open the garage when I get home from a motorcycle ride. I could unlock the front door with it as well, but my Apple Watch acts as an NFC key for my connected lock. I simply tap to open, just like you'd tap to pay.
 
-![Apple Watch opening door lock](/img/Watch-Door.jpg)
+{% imagePlaceholder "./src/assets/images/blog/Watch-Door.jpg", "Apple HomeKey" %}
 
 ## I found other minimal phone options too limited for me ##
 

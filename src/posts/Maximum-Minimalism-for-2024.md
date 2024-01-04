@@ -8,7 +8,7 @@ I've shared bits of my minimalmism experiences over the last year or so. Occasio
 As I enjoyed some quiet time with coffee on New Year's Day morning, I decided maybe I should share more on this topic, but in a longer form.
 
 So that's the plan for 2024: Regular posts offering a deeper dive into what minimalism is to me and how it impacts my life. The hope here is that others are inspired enough to dip a toe into the minimalism waters. Or even maybe they take the full plunge.
-<!-- excerpt -->
+
 ## What minimalism is ##
 
 Depending on who you ask, minimalism could mean many different things:
@@ -20,7 +20,7 @@ Depending on who you ask, minimalism could mean many different things:
 - A closet with a handful of the exact same outfits.
 - Sitting barefoot on the floor of a room with no furniture.
 
-![Steve Jobs sitting on the floor of his home](/img/Steve-Jobs-minimal.jpeg)
+{% imagePlaceholder "./src/assets/images/blog/Steve-Jobs-minimal.jpeg", "Steve Jobs sitting on the floor of his home" %}
 
 To me, there's some truth or validation in all of these examples. But there's no fundamental universal truth that defines minimalism. Like many spiritual or religious paths, minimalism is a personal journey. 
 
@@ -36,7 +36,8 @@ I started out by de-cluttering, which is a fairly common first step. It doesn't 
 
 I immediately felt more relaxed when walking into the closet to select an outfit. I didn't feel overwhelmed by rows of hanging clothes. Instead, I had more space to just "be" and carefully think about what I wanted to wear.
 
-![Shirts and jeans hanging in my closet](/img/Closet.JPG)
+
+{% imagePlaceholder "./src/assets/images/blog/Closet.jpg", "Shirts and jeans in my closet" %}
 
 Eventually, I further thinned my clothing inventory to even fewer choices. And in doing so, I changed from buying some "fast fashion" outfits and items that looked good in the store but I never wore but a few times. Instead, I was more intentional in my choies, opting for higher quality, longer-lasting items. 
 
