@@ -1,20 +1,59 @@
 ---
 title: About
 permalink: /about/index.html
-description: About this starter
 layout: page
 youtube: true
 ---
+1969 👶 Born as The Beatles were quietly breaking up. I had nothing to do with it.
 
-Based on the [companion website](https://buildexcellentwebsit.es/) of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'. It takes over a core functionality: Using Tailwind CSS to generate CSS variables based on design tokens.
+1977 📚 Read "The Hobbit" for the first of many, many times.
 
-Like buildexcellentwebsit.es, this starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template, ideal for personal websites and other small projects.
+1986 🏃 Ran my fastest 800m in 2:01.1, a school record for 20+ years.
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+1987 👨‍🎓 Graduated high school and started college at LaSalle University as an Accounting major
 
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
+1989 🎓 Was asked to leave LaSalle due to a 1.77 GPA.
 
-## Watch the talk
+1989 📚 Started as a FT employee at LaSalle's Connelly Library. This meant free classes.
 
-{% youtube 'JqnMI1AXl6w', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+1993 👨‍🎓 Graduated from LaSalle University with an Economics degree.
+
+1994 👰‍♀️ Got married and got a new apartment.  
+1994 👨‍💼 Started new job as an estimator for a doors, frames, and hardware company.
+
+1995 👨‍💼 Started new job for Electronic Data Systems.  
+1995 🏠 Bought first house, a small row home.
+
+1997 👨‍👩‍👦 Had a son.
+
+1998 🏃‍♂️ Ran fastest marathon in Chicago: 3:19:58.  
+1998 👨‍💼 Transitioned from EDS to GMAC Mortgage as a Systems Analyst
+
+2000 🏡 Sold row home and bought a small, single home.
+
+2001 👨‍💼 Started new role at Aetna as QA / Testing Manager
+
+2003 🏘️ Sold small, single home and bought a larger single home.
+
+2004 🫤 Got divorced.  
+2004 ⌨️ Started blogging.
+
+2006 ⌨️ Left Aetna to start blogging full time.
+
+2007 💶 Sold tech blog and stayed on as mobile writer.
+
+2008 👰 Got married again, gaining a step-daughter.
+
+2010 🍎 Inspired Apple to make the iPad mini. Didn't find out about that [until 2012](https://zatznotfunny.com/2012-08/kevin-tofel-inspires-apple-to-build-7-ipad/).
+
+2012 🎸 First tattoo: The Beatles logo.
+
+2016 🏠 Sold large single home and downsized to a townhouse.  
+2016 👨‍💼 Started 18 month role at Google in NYC.
+
+2017 ⚽️ Second tattoo: Liverpool Football Club logo.
+
+2018 ⌨️ Started independent site [AboutChromebooks](https://www.aboutchromebooks.com)
+
+2019 🏃‍♂️ Ended a 982 day running streak of at least mile a day.  
+2019 🧘 Adopted a minimalism lifestyle.

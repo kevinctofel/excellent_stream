@@ -1,14 +1,14 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Eleventy Excellent',
+  siteName: 'My Conscious Stream',
   siteDescription:
-    'Eleventy starter based on the workflow suggested by buildexcellentwebsit.es.',
+    'Online and offline thoughts',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
   skipContent: 'Skip to content',
-  author: 'Lene Saile', // i.e. Lene Saile - author's name. Must be set.
-  authorEmail: '', // i.e. hola@lenesaile.com - email of the author
+  author: 'Kevin C. Tofel', // i.e. Lene Saile - author's name. Must be set.
+  authorEmail: 'kevin@kctofel.com', // i.e. hola@lenesaile.com - email of the author
   authorWebsite: '', // i.e. https.://www.lenesaile.com - the personal site of the author
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
@@ -18,13 +18,13 @@ module.exports = {
       'Visible content: Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '', // i.e. @author -  twitter profile of the site
-    mastodonProfile: '' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
+    mastodonProfile: 'https://hachyderm.io@kevinctofel' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
   },
   blog: {
     // this is for the rss feed
-    name: 'My great Web Development Blog',
+    name: 'My Conscious Stream',
     description:
-      'Tell the word what you are writing about in your blog! It will show up on feed readers.'
+      'Online and offline thoughts from Kevin C. Tofel'
   },
   pagination: {
     itemsPerPage: 20
