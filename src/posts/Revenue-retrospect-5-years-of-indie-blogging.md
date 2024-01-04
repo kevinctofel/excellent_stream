@@ -13,7 +13,7 @@ There are several reasons for this huge drop in revenue, but most of them are ou
 
 I'll just get the hard part out of the way up front. Below are the annual site revenues for the last five full years. 
 
-![Site revenue by year](/img/Revenue-by-year.jpg)
+{% imagePlaceholder "./src/assets/images/blog/Revenue-by-year.jpg", "Five year revenues" %}
 
 Note that although I started the blog in 2018, it wasn't a full year, so I've left those figures out. And there are three days left in 2023, but those won't move the needle.
 
