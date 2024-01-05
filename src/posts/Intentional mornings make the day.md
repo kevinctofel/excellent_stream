@@ -42,7 +42,7 @@ Here too, I try to experience the music rather that just have background noise a
 
 Once the "me time" is over, I plan out my day. Every activity I intend to get done gets a time block on my calendar. I make sure to leave time between task blocks so I can get outside for a walk, excercise, read, etc... 
 
-{% imagePlaceholder "./src/assets/images/blog/timeblock-calendar.jpeg", "Example of time blocks on my calendar", "I take and log unscheduled naps on days I slept poorly the night before." %}
+{% imagePlaceholder "./src/assets/images/blog/timeblock-calendar.jpeg", "Example of time blocks on my calendar", "I take and log unscheduled naps on days I slept poorly the night before. Due to medication, I often get just 3 - 5 hours of sleep at night. 🤷‍♂️" %}
 
 Previously, I used task management or to-do apps for tasks. I know many people do and there's nothing wrong with that. I found that they don't really work for me though. 
 
