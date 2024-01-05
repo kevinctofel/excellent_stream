@@ -32,7 +32,7 @@ module.exports = {
   address: {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
     firma: 'Kevin C. Tofel',
-    street: '123 Main St.',
+    street: '',
     city: 'Harleysville',
     state: 'PA',
     zip: '19438',
