@@ -4,7 +4,7 @@ date: 2024-01-05T13:05:52.664Z
 description: How an intentional morning sets up a framework for me to get things done while also ensuring I'm doing the right things.
 ---
 
-Earlier this week, I noted that I'd be [sharing more longer form thoughts on my minimalism lifestyle](https://myconscious.stream/blog/Maximum-Minimalism-for-2024/). This morning I realized how important my mornings are to that lifestyle. I take very intentional actions to prepare my day. These actions effectively set up the framework of how and where I spend my waking time. 
+Earlier this week, I noted that I'd be [sharing more longer form thoughts on my minimalism lifestyle](https://myconscious.stream/blog/Maximum-Minimalism-for-2024/). Today I want to share how important my mornings are to that lifestyle. I take very intentional actions to prepare my day. These actions effectively set up the framework of how and where I spend my waking time. 
 
 It's taken many iterations to get the current iteration of this framework. Probably around six months of trying different approaches and tweaking along the way. But I think I've found a set of steps that works for me. 
 
