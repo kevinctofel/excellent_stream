@@ -58,7 +58,7 @@ To be clear, I still break tasks down into sub-tasks if required. But I do that 
 
 For example, I plan to add some missing functionality to my web-based content management system later today. What's the functionality and how will I do that? 
 
-I could manage the answers to those questions in a task management app, of course. I don't. Instead, I have TODO comments in my current code to manage the task requirements. I add these as they come up in the course of coding and I also block off time to review code once a week to brainstorm or add others. 
+I could manage the answers to those questions in a task management app, of course. I don't. Instead, I have ```TODO``` comments in my current code to manage the task requirements. I add these as they come up in the course of coding and I also block off time to review code once a week to brainstorm or add others. 
 
 When possible, the sub-tasks are then within the context of the task activity itself, rather than in an external tool or document.
 
