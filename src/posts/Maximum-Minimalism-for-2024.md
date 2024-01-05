@@ -59,7 +59,7 @@ Occasionally, I do see some new article of clothing that catches my eye. The nex
 - Will this item last a very long time? No more investing in purchases with a short life-span if I can help it.
 - Am I replacing something or am I adding to the wardrobe? More often than not, I follow the rule of "when a new 'thing' comes in to the house, an old 'thing' it replaces goes out of the house." 
 
-After that Utah vacation, I kept the three new shirts but sned the three older cotton T-shirts to a donation bin. 
+After that Utah vacation, I kept the three new shirts but sent the three older cotton T-shirts to a donation bin. 
 
 If you don't follow this type of rule, you'll just end up with more clutter and things you just don't need all over again.
 
