@@ -15,7 +15,7 @@ I'm sure this isn't a particularly enlightening observation, but the more towels
 
 My wife currently has eight towels, seven in the closet and one in the bathroom. Here's what they look like in our closet. 
 
-{% imagePlaceholder "./src/assets/images/blog/7-towels.jpeg", "Seven towels on a closet shelf" %}
+{% imagePlaceholder "./src/assets/images/blog/7-towels.jpg", "Seven towels on a closet shelf" %}
 
 A few months ago, there were even _more_ towels crammed into this shelf space. I couldn't walk in the closet without fearing I'd be attacked by these cotton thugs. Thankfully, my wife has downsized to just eight towels. 
 
@@ -27,7 +27,7 @@ Anyway, after that I tackled the towel problem. Doing some research, I found tha
 
 Here's the same closet picture of my wife's seven towels, with one of mine added to the mix. It's at the top right.
 
-{% imagePlaceholder "./src/assets/images/blog/8-towels.jpeg", "Eight towels on a closet shelf" %}
+{% imagePlaceholder "./src/assets/images/blog/8-towels.jpg", "Eight towels on a closet shelf" %}
 
 Mine is far thinner, takes up much less space and dries me off just the same. Does it feel as luxiorious? Definitely not. It does the job as a functional item without any discomfort, though.
 
@@ -45,7 +45,7 @@ Sometimes I'll shower at night before bed. Unless there's a really compelling re
 
 This schedule, combined with just three thin towels, saves both time and resources. When I do my weekly one load of laundry, the towels go in with the clothes. There's no load of "just towels" for me, saving water and electricity. And I'm good with clean clothes and towels for the entire week with that single load. 
 
-{% imagePlaceholder "./src/assets/images/blog/1-towel.jpeg", "A razor on top of a microfiber towel" %}
+{% imagePlaceholder "./src/assets/images/blog/1-towel.jpg", "A razor on top of a microfiber towel" %}
 
 Aside from that, my three skinny towels are easy to manage on a small shelf. They don't overflow past the shelf or look like they're crammed into a small space. I can even walk past them in a dark room without fear! 🤣
 
