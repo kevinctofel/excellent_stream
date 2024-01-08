@@ -1,3 +1,8 @@
+---
+title: "How many towels does one person need?"
+date: 2024-01-08
+description: How I saved space, time, effort and money by switching to just a few travel towels.
+---
 Let's start the week with a personal question. No, you don't need to share the answer. Just answer it in your head. Here we go: How many bath towels do you have?
 
 If you're like most people, I'm betting there are at least five bath towels per person in your house. Maybe even six or seven. That's just a guess; I've never seen any official statistics on such an important question. 
