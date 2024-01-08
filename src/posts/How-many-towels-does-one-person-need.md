@@ -1,7 +1,7 @@
 ---
 title: "How many towels does one person need?"
 date: 2024-01-08
-description: How I saved space, time, effort and money by switching to just a few travel towels.
+description: How I saved space, time, effort and money by switching from traditional to just a few travel towels 
 ---
 Let's start the week with a personal question. No, you don't need to share the answer. Just answer it in your head. Here we go: How many bath towels do you have?
 
