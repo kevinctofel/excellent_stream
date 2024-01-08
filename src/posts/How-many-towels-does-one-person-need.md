@@ -11,7 +11,7 @@ My wife is like most people. And I don't mean this to be a criticism of her, or 
 
 ## Lots of towels take up lots of space ##
 
-I'm sure this isn't a particularly enlightening observation, but the more towels you have, the more space you need to store them. Go for thicker, luxiorious bath towels and you'll find your stored towels take up more room than my whole wardrobe. Over time, you replace some. And of course, you can't find the exact some ones, so you end up with mishmash of different colors, sizes, and brands.
+I'm sure this isn't a particularly enlightening observation, but the more towels you have, the more space you need to store them. Go for thicker, luxurious bath towels and you'll find your stored towels take up more room than my whole wardrobe. Over time, you replace some. And of course, you can't find the exact some ones, so you end up with mishmash of different colors, sizes, and brands.
 
 My wife currently has eight towels, seven in the closet and one in the bathroom. Here's what they look like in our closet. 
 
@@ -29,11 +29,11 @@ Here's the same closet picture of my wife's seven towels, with one of mine added
 
 {% imagePlaceholder "./src/assets/images/blog/8-towels.jpg", "Eight towels on a closet shelf" %}
 
-Mine is far thinner, takes up much less space and dries me off just the same. Does it feel as luxiorious? Definitely not. It does the job as a functional item without any discomfort, though.
+Mine is far thinner, takes up much less space and dries me off just the same. Does it feel as luxurious? Definitely not. It does the job as a functional item without any discomfort, though.
 
 Calling it a towel is even a stretch because it's effectively a microfiber chamios. Only instead of being made to dry off a car, it's for drying off a person. Addmittedly, it felt weird to use after a shower at first. Within a week, it was the new normal for me. 
 
-Maybe using a traditional, towel brings you joy after every shower or bath. There's nothing wrong that. I don't get that feeling though. So anything that can dry me off is more than good enough for me.
+Maybe using a traditional, towel brings you joy after every shower or bath. There's nothing wrong that. I don't get that feeling of joy though. So anything that can dry me off is more than good enough for me.
 
 ## Yes, I only have 3 bath towels ##
 
