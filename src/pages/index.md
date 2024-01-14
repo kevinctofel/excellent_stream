@@ -6,5 +6,5 @@ layout: 'home'
 blog:
   title: "My recent thoughts"
 ---
-Irregularly scheduled thoughts on topics that intrerest me, such as: **Programming, Minimalism, Linux, and General Computing**.
+Irregularly scheduled thoughts on topics that interest me, such as: **Programming, Minimalism, Linux, and General Computing**.
 
