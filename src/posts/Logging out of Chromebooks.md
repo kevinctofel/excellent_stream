@@ -1,11 +1,11 @@
 ---
 title: Logging out of Chromebooks for a while
-description: It's time to log out. I'll be putting the AboutChromebooks blog on hiatus for bit. Possibly for good. Here's why and what's next.
+description: It's time to log out. I'll be putting the AboutChromebooks blog on hiatus for bit. Possibly for good. Here's what's next.
 date: 2024-01-28
 ---
 It's time to log out. I'll be putting the [AboutChromebooks blog](www.aboutchromebooks.com) on hiatus for bit. Possibly for good. I've already mentioned [the financial challenges](https://myconscious.stream/blog/Revenue-retrospect-5-years-of-indie-blogging/) that led me to this decision and frankly, the month of January only continues the worsening trend. 
 
-Although it will cost me around $25 per month for hosting, I'll leave the site up and running. There is still value there for those interested in Chromebooks and ChromeOS. However, I'll likely shutter the comments. I don't need reminding that the site couldn't survive.
+Although it will cost me around $25 per month for hosting, I'll leave the site up and running for a bit. There is still value there for those interested in Chromebooks and ChromeOS. However, I'll likely shutter the comments. I don't need reminding that the site couldn't survive.
 
 ## So what's next?
 
@@ -27,4 +27,6 @@ But this morning, I unsubscribed to the several Chromebook and ChromeOS Google A
 
 As fun as this ride has been, I'm at peace with the decision. It's not a happy environment when you're checking site stats, ad revenue, Google search position rankings and more many items several times per day. At least not when in a downtrend like things have been for roughly 18 months. 
 
-I actually feel good about getting that negativity out of my daily life because I've let it hold me back. It's time to move on, spend more time with my family and enjoy a more positive daily environment. If you read or supported the site, know that I sincerely appreciate it. We may all be connected through wired and wirless connections but it's the personal connections that mean the most.
+I actually feel good about getting that negativity out of my daily life because I've let it hold me back. It's time to move on, spend more time with my family and enjoy a more positive daily environment. 
+
+If you read or supported the site, know that I sincerely appreciate it. We may all be connected through wired and wireless connections but it's the _personal_ connections that mean the most.
