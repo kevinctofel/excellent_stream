@@ -3,7 +3,7 @@ title: Logging out of Chromebooks for a while
 description: It's time to log out. I'll be putting the AboutChromebooks blog on hiatus for bit. Possibly for good. Here's what's next.
 date: 2024-01-28
 ---
-It's time to log out. I'll be putting the [AboutChromebooks blog](www.aboutchromebooks.com) on hiatus for bit. Possibly for good. I've already mentioned [the financial challenges](https://myconscious.stream/blog/Revenue-retrospect-5-years-of-indie-blogging/) that led me to this decision and frankly, the month of January only continues the worsening trend. 
+It's time to log out. I'll be putting the [AboutChromebooks blog](https://www.aboutchromebooks.com) on hiatus for bit. Possibly for good. I've already mentioned [the financial challenges](https://myconscious.stream/blog/Revenue-retrospect-5-years-of-indie-blogging/) that led me to this decision and frankly, the month of January only continues the worsening trend. 
 
 Although it will cost me around $25 per month for hosting, I'll leave the site up and running for a bit. There is still value there for those interested in Chromebooks and ChromeOS. However, I'll likely shutter the comments. I don't need reminding that the site couldn't survive.
 
