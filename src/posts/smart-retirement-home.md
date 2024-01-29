@@ -17,13 +17,13 @@ I'm amazed at how much use and repurposing you get with just 640 square feet. An
 
 ## The size and style fits us (or at least me)
 
-For reference, we downsized from a 3,000 square foot home with an acre of property back in 2016. I think it was the best decision we've ever made. It was an excessive amount of space for us and we here heating / cooling many rooms that we weren't even using. We saved roughly \$1,200 a month by downsizing to our current 1,900 square foot townhouse. And we still have too much space. At least I think so; my wife would disagree.
+For reference, we downsized from a 3,000 square foot home with an acre of property back in 2016. I think it was the best decision we've ever made. It was an excessive amount of space for us and we here heating / cooling many rooms that we weren't even using. We saved roughly \$1,200 a month by downsizing to our current 1,900 square foot townhouse. And we still have too much space. At least I think so; my wife would disagree. 
 
 Yes, 640 square feet is a vast reduction from 1,900. I get that. But again, the fact that you can repurpose a bedroom to a living room, such as with the Citizen home, helps make up for that. 
 
 Of course, you can't have much "stuff" in a home with such a small footprint. We'd have to donate additional items we currently own, but we're well on the path of minimalism. I've pointed this out prior with an image of my wardrobe and our towels. There are still more low- or no-value items to eliminate. Even so, our first floor is relatively spartan by traditional American standards.
 
-{% imageplaceholder %}
+{% imageplaceholder "./src/assets/images/blog/Palma.jpeg" %}
 
 ## One more key aspect
 
