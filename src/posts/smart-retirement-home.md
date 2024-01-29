@@ -21,7 +21,7 @@ For reference, we downsized from a 3,000 square foot home with an acre of proper
 
 Yes, 640 square feet is a vast reduction from 1,900. I get that. But again, the fact that you can repurpose a bedroom to a living room, such as with the Citizen home, helps make up for that. 
 
-Of course, you can't have much "stuff" in a home with such a small footprint. We'd have to donate additional items we currently own, but we're well on the path of minimalism. I've pointed this out prior with an image of my wardrobe and our towels. There are still more low- or no-value items to eliminate. Even so, our first floor is relatively spartan by traditional American standards.
+Of course, you can't have much "stuff" in a home with such a small footprint. We'd have to donate additional items we currently own, but we're well on the path of minimalism. I've pointed this out prior with [an image of my wardrobe](https://myconscious.stream/blog/Maximum-Minimalism-for-2024/) and [our towels](https://myconscious.stream/blog/How-many-towels-does-one-person-need/). There are still more low- or no-value items to eliminate. Even so, our first floor is relatively spartan by traditional American standards.
 
 {% imageplaceholder "./src/assets/images/blog/Palma.jpeg" %}
 
