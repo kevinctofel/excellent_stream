@@ -2,6 +2,7 @@
 title: I love this "smart" home for minimalist retirement
 description: This "smart" pre-fab home looks ideal for the minimalist lifestyle as my wife and I get older.
 date: 2024-01-29
+youtube: true
 ---
 As my wife and I get older, we continue to debate an important decision. Should we stay in our current house or should we look for a more suitable retirement home? As a minimalist, I'm leaning towards a smaller place. And I recently saw a "smart" pre-fab home that appears ideal.
 
