@@ -14,11 +14,15 @@ The home in question is designed and built by [ZenniHome](https://www.zennihome.
 
 {% youtube "iH9eugU4mqc", "ZenniHomes Citizen walkthrough" %}
 
-I'm amazed at how much use and repurposing you get with just 640 square feet. And the base price is \$125,000, which isn't outrageous. Note that the nifty bed in the ceiling is a \$15,000 option. I'd get that for sure. I believe that the slide-out closet feature is included in the base price. At least I can't find it listed in the options, so I'm assuming it's included.
+I'm amazed at how much use and repurposing you get with just 640 square feet. And the base price is \$125,000, which isn't outrageous. Note that the nifty bed in the ceiling is a \$15,000 option. I'd get that for sure. 
+
+I believe that the slide-out closet feature is included in the base price. At least I can't find it listed in the options, so I'm assuming it's included.
 
 ## The size and style fits us (or at least me)
 
-For reference, we downsized from a 3,000 square foot home with an acre of property back in 2016. I think it was the best decision we've ever made. It was an excessive amount of space for us and we here heating / cooling many rooms that we weren't even using. We saved roughly \$1,200 a month by downsizing to our current 1,900 square foot townhouse. And we still have too much space. At least I think so; my wife would disagree. 
+For reference, we downsized from a 3,000 square foot home with an acre of property back in 2016. I think it was the best decision we've ever made. It was an excessive amount of space for us and we were heating / cooling many rooms that were unused. 
+
+We saved roughly \$1,200 a month by downsizing to our current 1,900 square foot townhouse. And we still have too much space. At least I think so; my wife would disagree. 
 
 Yes, 640 square feet is a vast reduction from 1,900. I get that. But again, the fact that you can repurpose a bedroom to a living room, such as with the Citizen home, helps make up for that. 
 
@@ -30,4 +34,6 @@ Of course, you can't have much "stuff" in a home with such a small footprint. We
 
 You can tell from the above image that our current townhouse has multiple floors. Our bedrooms and home office are on the second floor, so those get used daily. We also have another bedroom in the finished third floor loft. There's also a basement. That's a lot of stairs.
 
-All of the rooms in Zenni's Citizen model are on the same floor. And that's a huge benefit as my wife and I get older. We're perfectly fine on stairs now. It's a non-issue today. But a decade from now? I'd _like_ to think I'll be as spry as when I ran marathons at sub-7:30 per mile pace. I know that's an unrealistic pipe dream.
+All of the rooms in Zenni's Citizen model are on the same floor. And that's a huge benefit as my wife and I get older. We're perfectly fine on stairs now. It's a non-issue today. But a decade from now? 
+
+I'd _like_ to think I'll be as spry as when I ran marathons at sub-7:30 per mile pace. I know that's an unrealistic pipe dream.
