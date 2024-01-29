@@ -23,7 +23,7 @@ Yes, 640 square feet is a vast reduction from 1,900. I get that. But again, the 
 
 Of course, you can't have much "stuff" in a home with such a small footprint. We'd have to donate additional items we currently own, but we're well on the path of minimalism. I've pointed this out prior with [an image of my wardrobe](https://myconscious.stream/blog/Maximum-Minimalism-for-2024/) and [our towels](https://myconscious.stream/blog/How-many-towels-does-one-person-need/). There are still more low- or no-value items to eliminate. Even so, our first floor is relatively spartan by traditional American standards.
 
-{% imageplaceholder "./src/assets/images/blog/Palma.jpeg" %}
+{% imagePlaceholder "./src/assets/images/blog/Palma.jpeg" %}
 
 ## One more key aspect
 
