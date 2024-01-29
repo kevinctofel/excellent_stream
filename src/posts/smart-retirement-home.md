@@ -5,7 +5,7 @@ date: 2024-01-29
 ---
 As my wife and I get older, we continue to debate an important decision. Should we stay in our current house or should we look for a more suitable retirement home? As a minimalist, I'm leaning towards a smaller place. And I recently saw a "smart" pre-fab home that appears ideal.
 
-When I say this is a "smart" hme, I don't mean from a connected or IoT standpoint. Rather, the design and re-use of space is what I think makes it smart. 
+When I say this is a "smart" home, I don't mean from a connected or IoT standpoint. Rather, the design and re-use of space is what I think makes it smart. 
 
 ## Check out this walkthrough
 
