@@ -2,8 +2,9 @@
 title: Minimalism activity check for January
 description: What came in and what went out of my house during the first month of 2024?
 date: 2024-01-31
-___
-Well _that_ was quick. It feels like New Year's Eve was just last week and here we are at the end of January. 
+---
+
+Well _that_ was quick. It feels like New Year's Eve was just last week and here we are at the end of January. Yes, there's another day left in the month, but I'm 99% confident that nothing will change in the next 24 hours. 🤓
 
 In order to hold myself a little more accountable, I kept track of my minimalism efforts this month. I'm sharing what I bought and/or added to the home and what was removed. Sharing this information helps accomplish two things:
 
