@@ -14,7 +14,7 @@ youtube: true
 
 1989 🎓 Was asked to leave LaSalle due to a 1.77 GPA.
 
-1989 📚 Started as a FT employee at LaSalle's Connelly Library. This meant free classes.
+1989 📚 Started as a FT employee at LaSalle's Connelly Library.
 
 1993 👨‍🎓 Graduated from LaSalle University with an Economics degree.
 
@@ -26,7 +26,7 @@ youtube: true
 
 1997 👨‍👩‍👦 Had a son.
 
-1998 🏃‍♂️ Ran fastest marathon in Chicago: 3:19:58.  
+1998 🏃‍♂️ Ran my fastest of four marathons: 3:19:58 in Chicago.  
 1998 👨‍💼 Transitioned from EDS to GMAC Mortgage as a Systems Analyst
 
 2000 🏡 Sold row home and bought a small, single home.
@@ -56,4 +56,6 @@ youtube: true
 2018 ⌨️ Started independent site [AboutChromebooks](https://www.aboutchromebooks.com)
 
 2019 🏃‍♂️ Ended a 982 day running streak of at least mile a day.  
-2019 🧘 Adopted a minimalism lifestyle.
+2019 🧘 Adopted a minimalism lifestyle.  
+
+2024 ⌨️ Put [AboutChromebooks](https://www.aboutchromebooks.com) on hiatus.
