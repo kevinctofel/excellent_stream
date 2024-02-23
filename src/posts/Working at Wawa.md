@@ -2,7 +2,7 @@
 title: Working at WaWa
 description: The tech job and online ad markets are crappy right now. So I'm waiting it out at WaWa!
 date: 2024-02-23
-___
+---
 
 Bless me blogosphere, for I have sinned. It has been more than three weeks since my last blog-fession. I made a conscious effort to lay low this month. After putting my Chromebooks site on pause, I wanted to hit my personal "reset" button. So I did until now. 
 
