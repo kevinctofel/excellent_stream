@@ -8,7 +8,7 @@ Bless me blogosphere, for I have sinned. It has been more than three weeks since
 
 That offline time gave me a chance to think through some personal challenges. And one of them, a reduced income, is now sorted out. At least to a point. Earlier this month, I got a part-time position at my local Wawa, less than one mile from my house.
 
-{% imagePlaceholder "./src/assets/images/blog/Wawa_nametag.jpg", "I'm a Wawa Customer Service Associate" %}
+{% imagePlaceholder "./src/assets/images/blog/WaWa_nametag.jpg", "I'm a Wawa Customer Service Associate" %}
 
 ## What's a Wawa?
 
@@ -16,7 +16,7 @@ Folks on the east coast of the US, particularly in the mid-Atlantic region can s
 
 For everyone else: [Wawa](https://www.Wawa.com) is a [privately owned](https://www.Wawa.com/about-us) chain of convenince and fuel stores with roughly 1,000 retail locations and 45,000 employees. The company is celebrating the 60th anniversary of its first story opening this April. And it plans expansion to more states to broaden its footprint.
 
-{% imagePlaceholder "./src/assets/images/blog/Wawa_store.jpg", "My Wawa store" %}
+{% imagePlaceholder "./src/assets/images/blog/WaWa_store.jpg", "My Wawa store" %}
 
 In many small town locations (like mine), Wawa is a very community-driven experience. Here in Harlesyville, PA, Wawa is where you bump into friends and neighbors all the time. There's a seating area in my store and it's not uncommon to see groups randomly meet up, sit and chat for a spell. 
 
@@ -30,7 +30,7 @@ Here's where my update may get a little surprising. I'm not blogging for Wawa or
 
 Instead, I started at Wawa on the bottom rung of the ladder as a Customer Service Associate. My main role is part of the "Facilities" crew.
 
-{% imagePlaceholder "./src/assets/images/blog/Wawa_cooler.jpg", "It's cold in the cooler!" %}
+{% imagePlaceholder "./src/assets/images/blog/WaWa_cooler.jpg", "It's cold in the cooler!" %}
 
 What does that mean? Here's what I do:
 
@@ -60,7 +60,7 @@ I'm averaging between 7 and 8 miles of movement during a typical 8 hour shift. M
 
 Looking at my step count for the month, it's pretty obvious which days are my work days:
 
-{% imagePlaceholder "./src/assets/images/blog/Wawa_steps.jpg", "Daily step count" %}
+{% imagePlaceholder "./src/assets/images/blog/WaWa_steps.jpg", "Daily step count" %}
 
 Lastly, I'm not sitting alone in a home office any longer. I am out and about with the people in my community. I'm having _actual_ in-person conversations with customers. People are thanking me for making the coffee because... well, Wawa is a happy place and most people enjoy the positive environment!
 
