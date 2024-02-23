@@ -60,6 +60,6 @@ Lastly, I'm not sitting alone in a home office any longer. I am out and about wi
 
 I'm still coding and writing in my down time, so I'm not completely away from technology. In just a few weeks I cruised through [a Python course](https://www.boot.dev/certificate/kevinctofel/f9a25dfb-3e00-4727-ac78-36de82315355) after work just to learn something new. This is basically a temporary, part-time development to help pay the bills, get more exercise and gain some social interaction.
 
-Then again, WaWa does have a fanatistic ESOP plan as the company is 40% owned by the employees. Management opportunities are off the charts as the chain expands into new areas. The benefits are fantastic if you average 30 hours weekly. So, who knows?
+Then again, WaWa does have a fanatistic ESOP plan as the company is 40% owned by the employees. Management opportunities are off the charts [as the chain expands into new areas](https://www.msn.com/en-us/money/companies/wawa-billionaires-bet-on-taking-the-convenience-chain-south/ar-BB1ijTkz). The benefits are fantastic if you average 30 hours weekly. So, who knows?
 
 At this point, I'm taking things one day at a time. I'm giving WaWa 100% of my effort when I'm on the clock. I'm boosting my technical skills when I'm off the clock. And frankly, I'm much happier than I was just a month or two ago. It's a win all-around! Well, save for a little physical soreness as I get older. 😉
