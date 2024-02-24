@@ -38,7 +38,7 @@ What does that mean? Here's what I do:
 📦 Break down all of the cardboard boxes from product receipt for recycling.
 ⛽️ Ensure the gas pumps are working and have receipt paper. I also refill the wiper fluid and paper towels at the pumps.
 🧃 Hop in the 30-degree cooler to restock all of the dairy, soda, water and other drink products.
-🧹 Vaccum, sweep and mop the floors as needed.
+🧹 Vacuum, sweep and mop the floors as needed.
 💩 Clean the bathrooms and monitor that cleanliness throughout the day.
 🌨️ Keep the outside walkways clean. This includes distributing rock salt when it snows like it did last week.
 
