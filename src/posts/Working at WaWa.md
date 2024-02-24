@@ -14,7 +14,7 @@ That offline time gave me a chance to think through some personal challenges. An
 
 Folks on the east coast of the US, particularly in the mid-Atlantic region can skip this section. You already know what Wawa is. 
 
-For everyone else: [Wawa](https://www.Wawa.com) is a [privately owned](https://www.Wawa.com/about-us) chain of convenince and fuel stores with roughly 1,000 retail locations and 45,000 employees. The company is celebrating the 60th anniversary of its first story opening this April. And it plans expansion to more states to broaden its footprint.
+For everyone else: [Wawa](https://www.Wawa.com) is a [privately owned](https://www.Wawa.com/about-us) chain of convenince and fuel stores with roughly 1,000 retail locations and 45,000 employees. The company is celebrating the 60th anniversary of its first store opening this April. And it plans expansion to more states to broaden its footprint.
 
 {% imagePlaceholder "./src/assets/images/blog/WaWa_store.jpg", "My Wawa store" %}
 
