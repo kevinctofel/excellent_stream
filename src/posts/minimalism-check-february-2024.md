@@ -1,7 +1,7 @@
 ---
 title: Minimalism activity check for February
 description: A recap of what I added to and removed from our minimal lifestyle in February. (Spoiler -> I blew it.)
-date: 2024-02-28
+date: 2024-03-01
 ---
 
 After doing so well [in the month of January by not spending much and donating some items](https://myconscious.stream/blog/Minimalism-activity-check-for-January/), I'm almost ashamed to report on February. However, I committed to doing this every month and you have to take the good with the bad. I'll rip of the bandaid and just right to it.
