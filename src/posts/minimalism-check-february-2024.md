@@ -1,6 +1,6 @@
 ---
 title: Minimalism activity check for February
-description: A recap of what I added to and removed from our minimal lifestyle in February. Spoiler -- I blew it.
+description: A recap of what I added to and removed from our minimal lifestyle in February. (Spoiler -> I blew it.)
 date: 2024-03-01
 ---
 
