@@ -38,7 +38,7 @@ If you're not familiar with this program, it's pretty unique. And ***very*** cha
 
 The [Georgia Tech Online Masters in CS](https://omscs.gatech.edu) is done in partnership with Udacity and AT&T. As a result, it's relatively inexpenive. Like $800 a class, which isn't much more than my community college classes. There are a few specializations available and [a wide array of classes to choose from](https://omscs.gatech.edu/current-courses). 
 
-![](../src/assets/images/blog/new_omscs_numbers.jpg)
+{% imagePlaceholder "./src/assets/images/blog/new_omscs_numbers.jpg", "Georgia Tech Online Masters stats" %}
 
 The college boasts 10,799 registered students as of last semester, so it's not a small program. In fact, on the first day of registration, it's typical to get waitlisted for a class even though there were 1,000 spots for a course. 
 
