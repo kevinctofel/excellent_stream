@@ -4,6 +4,7 @@ tags:
 published: true
 date: 2021-02-28T23:11:11.541Z
 title: Wish me luck (I'm gonna need it)
+youtube: true
 ---
 I made a big life decision this past month. At age 51, I've applied to [an online Masters in Computer Science program at Georgia Tech](https://omscs.gatech.edu). Yeah, I'm surprised too.
 
@@ -31,19 +32,19 @@ So it's back to school I go. Again.
 
 Well *hopefully*. I've only applied to the Geogia Tech program and won't likely receive an admissions decision for a good month or two.
 
-![](../src/images/revolution.jpg)
+![](../src/assets/images//blog/revolution.jpg)
 
 If you're not familiar with this program, it's pretty unique. And ***very*** challenging, apparently.
 
 The [Georgia Tech Online Masters in CS](https://omscs.gatech.edu) is done in partnership with Udacity and AT&T. As a result, it's relatively inexpenive. Like $800 a class, which isn't much more than my community college classes. There are a few specializations available and [a wide array of classes to choose from](https://omscs.gatech.edu/current-courses). 
 
-![](../src/images/new_omscs_numbers.jpg)
+![](../src/assets/images/blog/new_omscs_numbers.jpg)
 
 The college boasts 10,799 registered students as of last semester, so it's not a small program. In fact, on the first day of registration, it's typical to get waitlisted for a class even though there were 1,000 spots for a course. 
 
 As far as the challenge and effort offered by the program, there are ton of videos and reviews out there explaining it all. I've probably spent 50 hours researching those already. This particular one stands out to me:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AwdPsUDTO-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube "AwdPsUDTO-0", "OMCS course challenges" %}
 
 Since I've only taken 8 CS courses and it's been 30 years since Calc I and II, this is a tough road to follow. 
 
