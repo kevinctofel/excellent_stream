@@ -32,7 +32,7 @@ So it's back to school I go. Again.
 
 Well *hopefully*. I've only applied to the Geogia Tech program and won't likely receive an admissions decision for a good month or two.
 
-![](../src/assets/images//blog/revolution.jpg)
+{% imagePlaceholder "./src/assets/images/blog/revolution.jpg", "Georgia Tech Online Masters in CS" %}
 
 If you're not familiar with this program, it's pretty unique. And ***very*** challenging, apparently.
 
