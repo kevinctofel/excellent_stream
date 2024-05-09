@@ -16,7 +16,7 @@ For now, I have the content being hosted for free on [Netlify](https://www.netli
 
 Because all of the content on this site is actually stored on GitHub.
 
-{% imagePlaceholder "./src/assets/images/blog/GitHub-repo-for-my-blog.jpg", "Github repo of my blog" %}
+{% imagePlaceholder "./src/assets/images/blog/GitHub-repo-for-my-blog.png", "Github repo of my blog" %}
 
 That offers me a relatively permanent record of all the content. At the moment Netlify looks for changes to my blog repo and serves up the static pages.
 
