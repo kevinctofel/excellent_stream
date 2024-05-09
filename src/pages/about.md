@@ -58,4 +58,8 @@ youtube: true
 2019 🏃‍♂️ Ended a 982 day running streak of at least mile a day.  
 2019 🧘 Adopted a minimalism lifestyle.  
 
-2024 ⌨️ Put [AboutChromebooks](https://www.aboutchromebooks.com) on hiatus.
+2024 ⌨️ Put [AboutChromebooks](https://www.aboutchromebooks.com) on hiatus.  
+2024 🏪 Started part time work at Wawa 8135.
+
+Contact info: [kevin@kctofel.com](mailto:kevin@kctofel.com)
+
