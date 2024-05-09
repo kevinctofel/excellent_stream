@@ -4,6 +4,7 @@ tags:
 published: true
 date: 2022-12-04T23:47:31.709Z
 title: It's been a... week
+youtube: true
 ---
 W﻿hat a long, busy week. I mentioned on Monday that I'm beginning to prep for my first JavaScript assessment. And I put a good 15 hours in on that effort. I also wrote five blog posts about Chromebooks, recorded an IoT podcast, and wrote the news for an IoT-related newsletter. Oh, and my own newsletter was written and published this morning.
 
@@ -35,7 +36,8 @@ O﻿ne of the nice features is that Dendron can gather up all those Markdown fil
 
 I have my own little MDN docs site started now! Here's a brief look at the web output running locally on my Chromebook after taking just a few notes. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RLnwbqEB1-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube "RLnwbqEB1-k", "Dendron and Javascript notes" %}
+
 
 A﻿gain, Notion is fantastic. Had I organized my thoughts in a particular way from the get-go, I'd be using Notion for my JavaScript assessment preparations. Lesson learned!
 
