@@ -4,6 +4,7 @@ tags:
 published: true
 date: 2021-12-22T16:16:31.416Z
 title: So ends the great Masters in CS experiment
+description: Well, my first semester in the Georgia Tech OMSCS program is over. And my first semester is also my last semester.
 ---
 Well, my first semester in the Georgia Tech OMSCS program is over. And my first semester is also my last semester. I’ve decided to not continue this online Masters program.
 
