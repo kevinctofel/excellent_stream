@@ -2,7 +2,7 @@
 title: Minimalism and life update for August
 description: I've been thinking more on how to reduce screen time and simplify my digital needs when not at home. Here's where I'm at.
 date: 2024-08-12
-___
+---
 
 I haven't posted a minimalism update [since the beginning of March](https://myconscious.stream/blog/Minimalism-activity-check-for-February/), mainly because I haven't been writing. I suppose after 12,000+ blog posts over two decades, I needed a break.
 
