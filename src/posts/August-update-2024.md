@@ -18,7 +18,7 @@ In terms of purchases, I've been very intentional. That's good! In fact, [intent
 - A refurbished 5th gen iPod Classic ($68 on eBay) and [Koss PortaPro wired headphones](https://koss.com/products/porta-pro?srsltid=AfmBOopwdA-6EGOCcBjvnKfwtg_milm5q1v3kH5OvZXDifva3h3KDT1x) ($28 on sale). I'm enjoying the intentional and undisturbed experience of music with this setup. The 160 GB iPod is stock for now, but there are kits to add [larger batteries, Bluetooth radios and a USB-C port](https://moonlit.market). I don't need any of that right now (or maybe ever) but it's nice to have those options.
 - 3 technical [T-shirts from REI](https://www.rei.com/product/153828/rei-co-op-lightweight-base-layer-crew-top-mens), about $30 each. I already had 3 of these, so I replaced 3 older cotton shirt from my minimal wardrobe with these.
 
-{% imagePlaceholder "./src/assets/images/blog/IMG_0765.jpeg", "An iPod Classic and Koss PortaPro wired headphones" %}
+{% imagePlaceholder "./src/assets/images/blog/IMG_0837.png", "An iPod Classic and Koss PortaPro wired headphones" %}
 
 
 So not much spending and I didn't buy anything that I don't use on a daily or regular basis.
