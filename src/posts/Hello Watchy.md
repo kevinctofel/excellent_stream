@@ -2,7 +2,7 @@
 title: Hello Watchy
 description: After a soldering debacle with an old Pebble, I bought a DIY Watchy smartwatch. It's basic but good.
 date: 2024-08-28
-___
+---
 
 [Earlier this month](https://myconscious.stream/blog/Minimalism-and-life-update-for-August/), I mentioned that I ordered an original Pebble watch for $22 on eBay. The watch arrived in perfect condition, save for a dead battery. No problem! I'll just spend $18 at iFixit for a replacement, I thought. I got the new battery and attempted to solder it to the Pebble PCB but I ended up ruining the watch. It's a shame, really.
 
@@ -14,7 +14,7 @@ Once I connected the battery, the Watchy's display fired right up, albeit in dar
 
 {% imagePlaceholder "./src/assets/images/blog/IMG_0872.jpeg", "Watchy eInk display" %}
 
-That said, I think anyone can put this together. It took me all of 15 minutes with about 10 of them trying to insert the small buttons into their proper slots: The included two piece case is a little fiddly with such small parts. After that, I configured Watchy to connect to my home's wireless network and synchronized the time and date. Done!
+That said, I think anyone can put this together. It took me all of 15 minutes with about 10 of them trying to insert the small buttons into their proper slots. The included two piece case is a little fiddly with such small parts. After that, I configured Watchy to connect to my home's wireless network and synchronized the time and date. Done!
 
 {% imagePlaceholder "./src/assets/images/blog/IMG_0877.jpeg", "Watchy working on my wrist" %}
 
@@ -22,7 +22,7 @@ The included case is bit thick for my taste at around 15mm. Early Watchy owners 
 
 {% imagePlaceholder "./src/assets/images/blog/IMG_0878.jpeg", "Watchy thickness on my wrist" %}
 
-Back to the DIY bit now. As [Terence Eden noted in his 2023 Watchy review](https://shkspr.mobi/blog/2023/06/review-watchy-an-eink-watch-full-of-interesting-compromises/), any software modifications require you to *compile your code changes** and upload them to the Watchy over a micro-USB cable. Yeah, this isn't a consumer product. You'll be using the Arduino IDE (or similar application) to modify C++ files. And I haven't touched C++ in two decades. 😱
+Back to the DIY bit now. As [Terence Eden noted in his 2023 Watchy review](https://shkspr.mobi/blog/2023/06/review-watchy-an-eink-watch-full-of-interesting-compromises/), any software modifications require you to *compile your code changes* and upload them to the Watchy over a micro-USB cable. Yeah, this isn't a consumer product. You'll be using the Arduino IDE (or similar application) to modify C++ files. And I haven't touched C++ in two decades. 😱
 
 Still, I like the potential possibilities here. So I grabbed my Linux laptop running Arch (...BTW), installed the Arduino IDE and got to business. I have some ideas on what features I'd like to add on my Watchy but just getting the coding environment setup took me nearly an hour. I kept struggling to get Watchy recognized and connected to the Arduino IDE for quite a while. My eventual solution was to install the python3-pyserial package and my Linux username to the UUCP group. 🙄
 
