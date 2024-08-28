@@ -16,7 +16,7 @@ Best of all (at least to me) the replaceable battery plugs in directly to the bo
 
 {% imagePlaceholder "./src/assets/images/blog/IMG_0870.jpeg", "Watchy PCB and battery" %}
 
-Once I connected the battery, the Watchy's display fired right up, albeit in dark mode. You'll notice next to the battery indicator, there's a WiFi icon. Yes, the ESP32 has a WiFi radio. A Bluetooth one as well, but don't get too excited about that. There's no companion phone app to sync data or send notifications over Bluetooth. There's no touch functionality nor a backlit either.
+Once I connected the battery, the Watchy's display fired right up, albeit in dark mode. You'll notice next to the battery indicator, there's a WiFi icon. Yes, the ESP32 has a WiFi radio. A Bluetooth one as well, but don't get too excited about that. There's no companion phone app to sync data or send notifications over Bluetooth. There's no touch functionality nor a backlight either.
 
 Again this is a DIY project so additional features and functionality are up to you and/or the Watchy community.
 
