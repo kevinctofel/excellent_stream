@@ -55,8 +55,8 @@ The Arduino IDE said it sent a reset command but nothing ever happened. That's O
 Some relatively easy(!) immediate changes that I want to make include:
 -	Possibly going back to dark mode; the light mode text doesn't look as nice
 -	Switching from 24 to 12 hour time
-- Change the local temperature to Fahrenheit.
--	Use a different font. I'm a fan of JetBrains Mono although I don't know how well it will look or render here
+- Change the local temperature to Fahrenheit. *Update: [Done!](https://hachyderm.io/@kevinctofel/113046902367619435)*
+-	Use a different font. I'm a fan of [JetBrains Mono](https://www.jetbrains.com/lp/mono/) although I don't know how well it will look or render here
 
 Long term, I'd like to use the Watchy radios to pull other data from a phone or the web. 
 
@@ -67,4 +67,3 @@ If you're a coder that needs a watch with roughly a week's battery life, only wa
 For normal consumers? I'd say only go for it if you want to learn more about computing and coding. C++ isn't what I'd call 'beginner friendly' so there might be better learning projects out there. The [semi-usable documentation on Watchy's site](https://watchy.sqfmi.com/docs/getting-started/) is another potential gotcha for beginners as well. 
 
 I fit in the first category above and I'm quite happy with this purchase. I've already learned a little more about microcontrollers and C++, although I have a ways to go. Watchy provides me a simple yet practical product to expand my knowledge.
-
