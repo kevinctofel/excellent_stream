@@ -4,7 +4,7 @@ description: A new $35 case for my Watchy makes it far more comfortable to wear.
 date: 2024-09-12
 ---
 
-As mentioned in my last post, [I really like the Watchy DIY smartwatch](https://myconscious.stream/blog/Hello-Watchy/). I still don't think it's a viable option for most consumers because it's less of a product and more of a tinkling platform. Sure, it's functional, but only for the basics. I also noted that I had a new case for the watch on order.
+As mentioned in my last post, [I really like the Watchy DIY smartwatch](https://myconscious.stream/blog/Hello-Watchy/). I still don't think it's a viable option for most consumers because it's less of a product and more of a tinkering platform. Sure, it's functional, but only for the basics. I also noted that I had a new case for the watch on order.
 
 The $35 aluminum case arrived and it's great. Not perfect, but still excellent. By swapping over to the new case, Watchy is much thinner and more comfortable. 
 
@@ -24,7 +24,7 @@ Watchy already uses its WiFi connection to grab my local weather from OpenWeathe
 
 So I spent about an hour or so coding up a local web server with NodeJS and Express. I then added a route that reads a basic JSON data file on the server; that file will (for now) keep an array of my daily steps. I seeded the data file with two step totals and then added some code to push a new daily step count to the array.
 
-* (Note that I'm building an MVP, or minimum viable product. Once the basic functionality is working, I'll move the data from a file on the server to a small database, add data analysis / graphs, etc...)*
+* (Note that I'm building an MVP, or minimum viable product. Once the basic functionality is working, I'll move the data from a file on the server to a small database, add data analysis / graphs, etc...)
 
 Effectively, this is a very basic API with a PUT request to add any incoming daily step counts to the data file. It returns the data in JSON format to the web page for testing purposes. To test the API request, I used Postman to push a few random step values and verified the updated web page displaying the JSON data. Success!
 
