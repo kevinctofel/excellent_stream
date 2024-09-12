@@ -16,15 +16,17 @@ Downsides? This case doesn't protect the e-paper screen ribbon cable. And I also
 
 There are aluminum Watchy cases that offer more screen protection. They cost $45, which is fine. I opted for the less expensive one because I'd be right back to a bulky watch case with the more protective options.
 
-Armed (🤣) with a thinner smartwatch on my wrist I started tackling one the additional features I want from Watchy. Namely, I want my daily step count data somewhere other than on the watch. Watchy has both WiFi and Bluetooth but there's no companion phone app. Again, this is more of a DIY platform than a mass-market product.
+Armed (🤣) with a thinner smartwatch on my wrist I started tackling one the additional features I want from Watchy. 
 
-Watchy already uses its WiFi connection to grab my local weather from OpenWeather. So I know that connection can be used for other functions. I also know I need a place to store my daily step data. I decided to build that first.
+Namely, I want my daily step count data somewhere other than on the watch. Watchy has both WiFi and Bluetooth but there's no companion phone app. Again, this is more of a DIY platform than a mass-market product.
+
+Watchy already uses its WiFi connection to grab my local weather from OpenWeather. And I know that such connections can be used for other functions. I also know I need a place to store my daily step data. I decided to build that first.
 
 So I spent about an hour or so coding up a local web server with NodeJS and Express. I then added a route that reads a basic JSON data file on the server; that file will (for now) keep an array of my daily steps. I seeded the data file with two step totals and then added some code to push a new daily step count to the array.
 
 * (Note that I'm building an MVP, or minimum viable product. Once the basic functionality is working, I'll move the data from a file on the server to a small database, add data analysis / graphs, etc...)*
 
-Effectively, this is a very basic API with a PUT request to add any incoming daily step counts to the data file. It returns the data in JSON format to the web page for testing purposes. To test the API request, I used Postman to push a few random step values and verified the updated web page displaying the JSON data. Succeess!
+Effectively, this is a very basic API with a PUT request to add any incoming daily step counts to the data file. It returns the data in JSON format to the web page for testing purposes. To test the API request, I used Postman to push a few random step values and verified the updated web page displaying the JSON data. Success!
 
 {% imagePlaceholder "./src/assets/images/blog/Watchy_Steps_API_test.png", "Server API test for Watchy Steps" %}
 
