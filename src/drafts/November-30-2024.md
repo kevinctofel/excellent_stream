@@ -1,3 +1,8 @@
+---
+title: Week in review - November 30, 2024
+description: I manually rebuilt a Wordpress server, installed a Linux system snapshot tool and spent discretionary income for the first time this month.
+date: 2024-11-30
+---
 
 Sunday:
 
