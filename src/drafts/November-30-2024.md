@@ -20,3 +20,10 @@ Watched another 4 episodes of The Big Bang Theory: Season 1. Installed and confi
 
 Wednesday:
 More Big Bang Theory, almost done with S:2. Worked on Asteriods in Python to add bullet shooting. No collision detection with the asteriods yet, but that's the next step. Started reading ["Building a Second Brain" by Tiago Forte](https://www.buildingasecondbrain.com/book) on my Onyx Boox Palma.
+
+
+Ideas, Projects and upcoming To-Do's:
+- Switch homelab from TrueNas to Unraid mainly because I found Unraid easier to use and it offers more apps / containers.
+- Finish Asteriods in Python
+- Work on Wishlist application
+- Look into using Obsidian as the front end for blog posts going forward. [Simple setup and explanation video here](https://youtu.be/vHKuy7BqMMM?si=Hfr60OBTVuc6gu4L).
