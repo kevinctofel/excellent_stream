@@ -19,7 +19,7 @@ Tuesday:
 Watched another 4 episodes of The Big Bang Theory: Season 1. Installed and configured Timeshift for system backups on my Linux laptop. Set up a network share on homelab server to eventually store backups; Timeshift doesn't save snapshots to network drives.
 
 Wednesday:
-More Big Bang Theory, almost done with S:2. Worked on Asteriods in Python to add bullet shooting. No collision detection with the asteriods yet, but that's the next step. Started reading ["Building a Second Brain" by Tiago Forte](https://www.buildingasecondbrain.com/book) on my Onyx Boox Palma.
+More Big Bang Theory, almost done with S:2. Worked on Asteroids in Python to add bullet shooting. No collision detection with the asteriods yet, but that's the next step. Started reading ["Building a Second Brain" by Tiago Forte](https://www.buildingasecondbrain.com/book) on my Onyx Boox Palma.
 
 
 Ideas, Projects and upcoming To-Do's:
