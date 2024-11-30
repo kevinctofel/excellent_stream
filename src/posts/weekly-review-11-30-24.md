@@ -63,6 +63,11 @@ The next step, and where I picked up this week, was to implement bullets. It too
 
 With the holidays this week, that's as far as I got. So bullets pass right through asteriods at the moment. Next step is to reuse the collision detection code between bullet objects and asteroid objects. 
 
+### No-spend November
+
+As part of my minimalism lifestyle, I decide to try not spending any discretionary income on new things.
+I made it through this week, when I dropped $19.99 on a video game (mentioned below). As a result of this effort no new "things" came into my home this month so far. And our cash flow for November is more in the positive than it would have been otherwise.
+
 ### Entertainment
 
 - Binged Season 2 of The Big Bang Theory. The cultural references in the early seasons are comical because the series started in the era of flip-phones, MySpace and early Twitter.
