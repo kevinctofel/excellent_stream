@@ -20,7 +20,7 @@ OK, soapbox rant over. Let's look at what I installed on my fresh UNRAID device:
 - Wallabag for web clippings and read-it-later links. I'm not sold on this one yet though.
 - Immich, a Google Photos replacement. I [imported my nearly 25,000 images and videos from Google](https://secondbrain-5us.pages.dev/n/journal/2024/december/12-04-2024/), without any isues.
 
-{% imagePlaceholder "./src/assets/images/blog/IMG_0220.png", "Immich photo import" %}
+{% imagePlaceholder "./src/assets/images/blog/IMG_0204.png", "Immich photo import" %}
 
 I may try to code my own, simple read-it-later app, which would be good programming practice.
 
