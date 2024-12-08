@@ -16,7 +16,7 @@ OK, soapbox rant over. Let's look at what I installed on my fresh UNRAID device:
 
 - SearcXNG, a [private meta-search engine](https://secondbrain-5us.pages.dev/n/software/private-search-engine-with-searxng/) with no tracking or ads.
 - Wallabag for web clippings and read-it-later links. I'm not sold on this one yet though.
-- Immich, a Google Photos replacement. I [imported my nearly 25,000 images and videos from Google],(https://secondbrain-5us.pages.dev/n/journal/2024/december/12-04-2024/) without any isues.
+- Immich, a Google Photos replacement. I [imported my nearly 25,000 images and videos from Google](https://secondbrain-5us.pages.dev/n/journal/2024/december/12-04-2024/), without any isues.
 
 {% imagePlaceholder "./src/assets/images/blog/IMG_0220.png", "Immich photo import" %}
 
@@ -43,10 +43,10 @@ Initially, I set this up using the [11ty static site generator](https://www.11ty
 I'll continue to use this setup daily to see how well it works for me in the long run. I have the second brain site on a developent URL with Cloudflare at the moment. However, this week, I plan to move to my _kctofel.com_ domain. I may even use it to publish articles like this, providing a one-stop destination for journal entries, second brain knowledge and (on the front page) blog posts. Adding that to my weekly to-do list now.
 
 ## Ideas, Projects and upcoming To-Do’s:
-- [X]Switch homelab from TrueNas to Unraid mainly because I found Unraid easier to use and it offers more apps / containers.
-- [X]Finish Asteroids in Python
-- [ ]Work on Wishlist application
-- [X]Look into using Obsidian as the front end for blog posts going forward. Simple setup and explanation video here.
-- [ ]Move the second brain content to my personal domain.
-- [ ]Investigage the difference between notes and articles using Eleventy Notes to see if this can all be tied together.
-- [ ]Draft out a simple web clipping service I can create and self host)
+- [X] Switch homelab from TrueNas to Unraid mainly because I found Unraid easier to use and it offers more apps / containers.
+- [X] Finish Asteroids in Python
+- [ ] Work on Wishlist application
+- [X] Look into using Obsidian as the front end for blog posts going forward. Simple setup and explanation video here.
+- [ ] Move the second brain content to my personal domain.
+- [ ] Investigage the difference between notes and articles using Eleventy Notes to see if this can all be tied together.
+- [ ] Draft out a simple web clipping service I can create and self host)
