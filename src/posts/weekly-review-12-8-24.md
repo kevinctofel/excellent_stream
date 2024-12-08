@@ -1,8 +1,8 @@
---- 
+---
 title: Week in review - Dec. 8, 2024
 description: UNRAID and new apps are on my homelab as I move away from "big tech". I also finished coding Asteroids in Python and have new project ideas.
-date: 2024-12-08                                    
----    
+date: 2024-12-08
+---
 
 ## Back to UNRAID
 
