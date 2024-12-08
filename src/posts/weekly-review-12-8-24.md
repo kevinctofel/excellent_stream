@@ -22,7 +22,7 @@ OK, soapbox rant over. Let's look at what I installed on my fresh UNRAID device:
 
 I may try to code my own, simple read-it-later app, which would be good programming practice.
 
-## Asteriods in Python
+## Asteroids in Python
 
 Speaking of programming, I tackled the last bits of my current coding assignment for class. We're re-creating a simplified version of the classic arcade game, Asteroids, using Python. Last week, I left off trying to figure out collision detection between player bullets and asteroids. That actually wasn't difficult since I already had collision detection code for the player itself and asteriods.
 
