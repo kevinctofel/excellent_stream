@@ -18,7 +18,13 @@ I'm thrilled with the value I'm getting from journaling (mostly) daily on my per
 
 I also want a simple way to capture notes when away from my computer. My phone is the obvious choice here. So I resurrected some old code I put together last year for a Github CMS interface and hooked it up to my second brain site.
 
-You can see the two test notes I created using this interface: They're just text, converted to Markdown and sent to a specific folder in a Github repo for now. It's ugly as sin but functionally it works as an MVP, or minimum viable product. I do have to alter where I save the text notes because I just shipped them into the December folder of my Journal entries for testing. Thinking a "Notes" or "Inbox" folder to hold these is the way to go. So I'll keep working on that this week.
+{% imagePlaceholder "./src/assets/images/blog/IMG_1137.jpeg", "Web interface for second brain notes" %}
+
+You can see the two test notes I created using this interface: They're just text, converted to Markdown and sent to a specific folder in a Github repo for now. It's ugly as sin but functionally it works as an MVP, or minimum viable product. 
+
+{% imagePlaceholder "./src/assets/images/blog/IMG_1138.jpeg", "Test note published" %}
+
+I do have to alter where I save the text notes because I just shipped them into the December folder of my Journal entries for testing. Thinking a "Notes" or "Inbox" folder to hold these is the way to go. So I'll keep working on that this week.
 
 Think I'll call this small utility "GitDatNote". 
 
