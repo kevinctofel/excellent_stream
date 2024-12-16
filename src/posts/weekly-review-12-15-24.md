@@ -26,7 +26,34 @@ You can see the two test notes I created using this interface: They're just text
 
 I do have to alter where I save the text notes because I just shipped them into the December folder of my Journal entries for testing. Thinking a "Notes" or "Inbox" folder to hold these is the way to go. So I'll keep working on that this week.
 
-Think I'll call this small utility "GitDatNote". 
+Think I'll call this small utility "GitDatNote". 🤓
+
+---
+
+## Replacing a wireless charging system
+
+As a minimialist, I don't buy much. Like, at all. However, the wireless charger for my Apple devices broke a few months ago. So after a little research, I dropped $60 on this ESR Qi2 3-in-1 device. And I love it.
+
+{% imagePlaceholder "./src/assets/images/blog/IMG_0226.jpeg", "New wireless charger" %}
+
+You don't see the phone in the above image for two reasons. First, I wanted to highlight the small fan holes on the charger, which quietly keep the phone cooler. This lets the Qi2 charging pad maintain its fastest wireless transfer rate. Second, I used my phone to take the photo. 😉
+
+Aside from the fast, quiet phone charging, this model charges my AirPods Pro case and my Apple Watch. And there's what might be the most interesting aspect of this charger. It has a USB-C port where the watch charging pad goes. Included in the package was a small charging pad with a male USB-C port that plugs into the main charger here. When traveling, I can take that part with me and plug it in to any USB-C port to charge my watch. Clever and useful!
+
+{% imagePlaceholder "./src/assets/images/blog/IMG_0227.jpeg", "New wireless charger" %}
+
+---
+
+## I'm not functional with functional programming
+
+After completing my Asteroids in Python assignment for class last week, I turned to the next lesson. It's on Functional Programming (FP). And I get the overall concept of FP: Keeping data immutable.
+
+Yet, for the first coding assignment, I'm struggling. The example code returns an error because it's attempting to mutate a tuple in in Python and tuples are immutable.
+
+{% imagePlaceholder "./src/assets/images/blog/IMG_0228.jpeg", "Functional programming assignment" %}
+
+I only spent about an hour on the assignment and it was frustrating. Any of my coding efforts to create and append to a new tuple have resulted in errors. Obviously, I'm not sure why, or I wouldn't be writing about it. So my plan tomorrow is to tackle this again after taking some time off from the problem.
+
 
 ## Ideas, Projects and upcoming To-Do’s:
 
