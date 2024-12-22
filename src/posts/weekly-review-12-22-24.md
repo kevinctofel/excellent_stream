@@ -38,6 +38,12 @@ I haven't trimmed the pieces to fully fit within the keyboard yet, mainly becaus
 
 {% imagePlaceholder "./src/assets/images/blog/modified_keyboard.jpeg", "Modified and quieter Ducky keyboard" %}
 
+One other small project I tackled is also keyboard related. But not for the mechanical keyboard. I run Arch Linux (...BTW) on my Dell XPS 15 and it has a fingerprint scanner in the power button. That feature doesn't work out of the box with Arch though. By installing the _fprint_ package and modifying some configuration files I was able to get the sensor working for basic system authentication.
+
+{% imagePlaceholder "./src/assets/images/blog/IMG_0244.png", "Successful fingerprint usage in Arch Linux" %}
+
+I've enrolled a finter and can log in to Linux with a touch but I don't yet have it working system wide, such as for passwords. That will will take a little more effort, which I hope to put in this coming week.
+
 ## Some great video content I enjoyed this week:
 
 Since I had some time to sit around in a quiet house this week, I did catch some good videos. Here's a sampling:
