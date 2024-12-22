@@ -52,7 +52,7 @@ Since I had some time to sit around in a quiet house this week, I did catch some
 
 - [Why I disappeared](https://youtu.be/elOvC989LD0?si=CcYlzzgUQR2qwu7k) I've always enjoyed Matt D'Avella's take on minimalism and productivity. Then the videos stopped earlier this year. Matt explains why and I can certainly sympathize with his reasons of burnout after writing nearly 10,000 blog posts in 7 years some time ago.
 
-- [You need to quit these 14 habits in 2025 (from the Stoics)](https://youtu.be/2ecHnmIGPdU?si=WH0mLqtHKivRbX1h) Ryan Holiday is my go-to guy for learning about Stoicism. And this list of 14 habits to break is a good one. I'm already on track with some of them but I have plenty of room for improvement in 2015.
+- [You need to quit these 14 habits in 2025 (from the Stoics)](https://youtu.be/2ecHnmIGPdU?si=WH0mLqtHKivRbX1h) Ryan Holiday is my go-to guy for learning about Stoicism. And this list of 14 habits to break is a good one. I'm already on track with some of them but I have plenty of room for improvement in 2025.
 
 - [Sony's breakthrough color TV](https://youtu.be/TOh3jEJGynA?si=Aesj6R4hWyS7xKhQ) I can't not watch a good retro gadget or device video. So this detailed history of color TV development in general, and Sony's creation of the Trinitron was superb. There are days I wish I could find an old Trinitron in good shape at a reasonable price.
 
