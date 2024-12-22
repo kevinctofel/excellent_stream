@@ -42,7 +42,7 @@ One other small project I tackled is also keyboard related. But not for the mech
 
 {% imagePlaceholder "./src/assets/images/blog/IMG_0244.png", "Successful fingerprint usage in Arch Linux" %}
 
-I've enrolled a finter and can log in to Linux with a touch but I don't yet have it working system wide, such as for passwords. That will will take a little more effort, which I hope to put in this coming week.
+I've enrolled a finger and can log in to Linux with a touch but I don't yet have it working system wide, such as for passwords. That will will take a little more effort, which I hope to put in this coming week.
 
 ## Some great video content I enjoyed this week:
 
