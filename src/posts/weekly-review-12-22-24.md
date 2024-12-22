@@ -2,7 +2,7 @@
 title: Week in review - Dec. 22, 2024
 description: An early baby, eBooks on a home server, Witcher 3 upgrades, and my first mechanical keyboard mod 
 date: 2024-12-22
-
+---
 
 ## A wild week
 
@@ -26,8 +26,29 @@ A quick search told me that there's a Docker image for Calibre, the fantastic op
 
 I did have time to manage two modifications this week. One is for software and one is for hardware.
 
-I found [a nearly 12 GB set of modifications for The Witcher 3](https://www.nexusmods.com/witcher3/mods/9963) this week and after installing them, the game looks on par with any modern AAA title. There are updated textures throughout the game, improved NPC renders, better foliage rendering and much, much more.
+I found [a nearly 12 GB set of modifications for The Witcher 3](https://www.nexusmods.com/witcher3/mods/9963) this week and after installing them, the game looks on par with any modern AAA title. There are updated textures throughout the game, improved NPC renders, better foliage rendering, lighting effects and much, much more.
 
+{% imagePlaceholder "./src/assets/images/blog/Witcher3.jpeg", "Modified Witcher 3" %}
+
+I decided to reduce the sound of my mechanical keyboard using some thin, plastic packing foam layers this week too. It only took the removal of four screws to take my Ducky keyboard apart and remove the deck. Then it was just a matter of cutting three of the foam sheets and trimming a hole for the wire connecting the PCB and keyboard deck. 
+
+{% imagePlaceholder "./src/assets/images/blog/open_keyboard.jpeg", "The Ducky keyboard taken apart" %}
+
+I haven't trimmed the pieces to fully fit within the keyboard yet, mainly because I may add another layer or two. While it doesn't look good, the keyboard sounds much better!
+
+{% imagePlaceholder "./src/assets/images/blog/modified_keyboard.jpeg", "Modified and quieter Ducky keyboard" %}
+
+## Some great video content I enjoyed this week:
+
+Since I had some time to sit around in a quiet house this week, I did catch some good videos. Here's a sampling:
+
+- [Why Saudi Arabia is building a $1T city in the desert](https://youtu.be/UGzI-ABpy6k?si=Pricl3Vq4LuBwbRM) The Neom project has been in development for a few years now, so it's interesting to see the progress. I didn't realize they work on this 7x24. Also good to see perspective from the local nomadic tribes.
+
+- [Why I disappeared](https://youtu.be/elOvC989LD0?si=CcYlzzgUQR2qwu7k) I've always enjoyed Matt D'Avella's take on minimalism and productivity. Then the videos stopped earlier this year. Matt explains why and I can certainly sympathize with his reasons of burnout after writing nearly 10,000 blog posts in 7 years some time ago.
+
+- [You need to quit these 14 habits in 2025 (from the Stoics)](https://youtu.be/2ecHnmIGPdU?si=WH0mLqtHKivRbX1h) Ryan Holiday is my go-to guy for learning about Stoicism. And this list of 14 habits to break is a good one. I'm already on track with some of them but I have plenty of room for improvement in 2015.
+
+- [Sony's breakthrough color TV](https://youtu.be/TOh3jEJGynA?si=Aesj6R4hWyS7xKhQ) I can't not watch a good retro gadget or device video. So this detailed history of color TV development in general, and Sony's creation of the Trinitron was superb. There are days I wish I could find an old Trinitron in good shape at a reasonable price.
 
 ## Ideas, projects and to-dos
 
