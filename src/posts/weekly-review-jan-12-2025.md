@@ -1,7 +1,7 @@
 ---
 title: Week in review - Jan. 12, 2025
 description: Why I downsized to the smaller iPad Pro, some limited tech time this week and a grandbaby update
-date: 2025-1-12
+date: 2025-01-12
 ---
 
 ## A downsized iPad Pro experiment
