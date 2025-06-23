@@ -16,7 +16,7 @@ Before sharing my morning ritual, I want to emphasize a key theme I've adopted i
 
 Instead, I simply focus specifically on the things that I _intend_ to do. A perfect anti-pattern of intentional action is what can happen when looking up something on the web using a smartphone.  What's the specific intention of that action? Using a tool to specifically get some value, information or to complete a task. 
 
-In this case, it's to find something, such as the difference between vegetarians and vegans, for example. So in an intentional situation, you search for that difference, get results and put the smartphone done. The intended task is complete.
+In this case, it's to find something, such as the difference between vegetarians and vegans, for example. So in an intentional situation, you search for that difference, get results and put the smartphone down. The intended task is complete.
 
 What happens in many cases though is that unintended actions follow the second step in that example. 
 
