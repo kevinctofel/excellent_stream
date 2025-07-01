@@ -4,7 +4,7 @@ description: It's been six months without a blog post and boy, have there been s
 date: 2025-07-01
 ---
 
-I really can't believe I haven't blogged in roughly six months. Then again, *I* know what I've been dealing with so maybe I shouldn't be surprised. It's been a lot. Many, many changes. I think they're for the better but time will tell.
+I really can't believe I haven't blogged in roughly six months. Then again, **I** know what I've been dealing with so maybe I shouldn't be surprised. It's been a lot. Many, many changes. I think they're for the better but time will tell.
 
 ## Separated and living alone
 
@@ -73,6 +73,6 @@ First I need to get through the home settlement and distribution of joint assets
 
 I look at this situation as an opportunity, not a setback. It's not something I expected, of course. I'll roll with it, like I always do with any of life's challenges, making the best of it.
 
-And I appreciate the changes I've already made over the last five years: minimalism and Stoic philosophy are the bedrock of my daily life. Without them, I think I'd be ill eqipped to handle this new beginning.
+And I appreciate the changes I've already made over the last five years: minimalism and Stoic philosophy are the bedrock of my daily life. Without them, I think I'd be ill equipped to handle this new beginning.
 
 Instead, I'm looking forward to what the next six months bring me!
