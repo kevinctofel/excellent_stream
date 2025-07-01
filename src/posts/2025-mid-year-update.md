@@ -74,3 +74,5 @@ First I need to get through the home settlement and distribution of joint assets
 I look at this situation as an opportunity, not a setback. It's not something I expected, of course. I'll roll with it, like I always do with any of life's challenges, making the best of it.
 
 And I appreciate the changes I've already made over the last five years: minimalism and Stoic philosophy are the bedrock of my daily life. Without them, I think I'd be ill eqipped to handle this new beginning.
+
+Instead, I'm looking forward to what the next six months bring me!
