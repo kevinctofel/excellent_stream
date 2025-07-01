@@ -26,7 +26,7 @@ We quickly finished up some home projects in May and put the house up for sale b
 
 Since accepting one of those offers we've been dealing with seller requests: a new HVAC system and hot water heater for example. We've had to manage paperwork in anticipation for the settlement later this month. And we've had to clean out all of our belongings from the house.
 
-We're in the home stretch of that process now. Both of us have everything we wanted from the hosue in our respective apartments. 
+We're in the home stretch of that process now. Both of us have everything we wanted from the house in our respective apartments. 
 
 She has a storage facility for some of her belongings. I'm a minimalist, so I don't. That's not a judgement, just a fact. She and I are different people with different lifestyles and expectations; nothing wrong with that.
 
@@ -53,13 +53,15 @@ I spent roughly $1,000 to add a new loveseat, TV stand and a pair of barstools. 
 
 I purchased plates / bowls and new kitchen utensils. Only 4 of each because... it's just me. 
 
-I run my dishwasher once every 4 or 5 days. I do my laundry once a week. I hit the grocery store (a mile away) daily for dinner. There *might* be 1,000 sqaure feet of living space. But life is simple. And I'm happy here.
+I run my dishwasher once every 4 or 5 days. I do my laundry once a week. I hit the grocery store (a mile away) daily for dinner. I *might* have 1,000 square feet of living space, which is plenty. Life is simple. And I'm happy here.
 
 ## Work is... the same, mostly
 
 I'm still working at Wawa, which is 1.4 miles from the apartment. Not that much farther than the house was, which is 1.2 miles from Wawa. I'm consistently getting 32 hours a week, which means I should be eligible for benefits in October. My wife is graciously covering my healthcare until then.
 
-With a simpler, more solitary life, I do have more free time. Thankfully, I have a single article freelance gig in progress. I'll share more detail once that effort nears a conclusion. I couldn't pass it up because it pays almost two months rent. And it's on a topic that I enjoy researching.
+With a simpler, more solitary life, I do have more free time. Thankfully, I have a single article freelance gig in progress. 
+
+I'll share more detail once that effort nears a conclusion. I couldn't pass it up because it pays almost two months rent. And it's on a topic that I enjoy researching.
 
 {% imagePlaceholder "./src/assets/images/blog/desk.jpeg", "My desk" %}
 
@@ -73,6 +75,6 @@ First I need to get through the home settlement and distribution of joint assets
 
 I look at this situation as an opportunity, not a setback. It's not something I expected, of course. I'll roll with it, like I always do with any of life's challenges, making the best of it.
 
-And I appreciate the changes I've already made over the last five years: minimalism and Stoic philosophy are the bedrock of my daily life. Without them, I think I'd be ill equipped to handle this new beginning.
+And I appreciate the changes I've already made over the last five years: minimalism and Stoic philosophy are the bedrock of my daily life. Without them, I think I'd be ill-equipped to handle this new beginning.
 
 Instead, I'm looking forward to what the next six months bring me!
