@@ -34,7 +34,11 @@ My apartment is fantastic and moving in gave me a chance to determine what I tru
 
 I took more small, personal items of course, but that's the bulk of it, save for two outdoor chairs I use on my new porch.
 
-I spent roughly $1,000 to add a new loveseat, TV stand and a pair of barstools. Basically, just things I thought I'd need. I also bought plates / bowls and new kitchen utensils. Only 4 of each because... it's just me. 
+I spent roughly $1,000 to add a new loveseat, TV stand and a pair of barstools. Basically, just things I thought I'd need. 
+
+{% imagePlaceholder "./src/assets/images/blog/living.jpg", "New living room" %}
+
+I also bought plates / bowls and new kitchen utensils. Only 4 of each because... it's just me. 
 
 I run my dishwasher once every 4 or 5 days. I do my laundry once a week. I hit the grocery store (a mile away) daily for dinner. Life is simple. And I'm happy here.
 
