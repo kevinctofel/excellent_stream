@@ -23,9 +23,7 @@ We're in the home stretch of that process now. Both of us have everything we wan
 
 ## Less is definitely more... for me
 
-{% imageplaceholder "./src/assets/images/blog/living.jpeg", "New living room sofa and TV stand" %}
-
-My apartment is fanstastic and moving in gave me a chance to determine what I truly need. Out of the furniture and things I took from the house, I decided to take:
+My apartment is fantastic and moving in gave me a chance to determine what I truly need. Out of the furniture and things I took from the house, I decided to take:
 
 - My 20 year old leather recliner and an end table I use next to it
 - The mattress I've been sleeping on; no bed frame as I don't want/need one.
