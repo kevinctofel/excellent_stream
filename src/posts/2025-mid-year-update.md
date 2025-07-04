@@ -22,7 +22,7 @@ Regardless, the end result is that we're separated, now living in two apartments
 
 Mine is only a mile from our current house; hers is an hour away, near my step-daughter, her husband and their baby. That's where she wants to be, and I respect that.
 
-We quickly finished up some home projects in May and put the house up for sale by June 1 for nearly double what we paid for the it in 2016. Three days later we had multiple offers over the asking price. 
+We quickly finished up some home projects in May and put the house up for sale by June 1 for nearly double what we paid for it in 2016. Three days later we had multiple offers over the asking price. 
 
 Since accepting one of those offers we've been dealing with seller requests: a new HVAC system and hot water heater for example. We've had to manage paperwork in anticipation for the settlement later this month. And we've had to clean out all of our belongings from the house.
 
